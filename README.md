@@ -10,7 +10,7 @@ Alunos:
 - Vinícius Vanelli Silvestre Silva
 - Erick Bento de Moraes
 
-Assunto: RL - Realidade aLternativa  
+Assunto: MV - Metaverso  
 
 ## [Atividades da Unidade 1](unidade_1 "Atividades da Unidade 1")  
 
