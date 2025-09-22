@@ -5,7 +5,12 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
 
 Alunos:  
 
-Assunto:  
+- Augusto Juan Dalprá Arraga
+- Eduardo Augusto Reinert
+- Vinícius Vanelli Silvestre Silva
+- Erick Bento de Moraes
+
+Assunto: RL - Realidade aLternativa  
 
 ## [Atividades da Unidade 1](unidade_1 "Atividades da Unidade 1")  
 
